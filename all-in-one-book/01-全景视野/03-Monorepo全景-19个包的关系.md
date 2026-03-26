@@ -343,7 +343,7 @@ graph BT
 | 5 | `@opencode-ai/app` | 2 | Web 前端，桌面应用复用 |
 | 5 | `@opencode-ai/console-core` | 2 | 控制台核心逻辑 |
 | 5 | `@opencode-ai/console-mail` | 2 | 邮件服务 |
-| 5 | `@opencode-ai/plugin` | 1 | 插件接口 |
+| 8 | `@opencode-ai/plugin` | 1 | 插件接口 |
 
 ---
 
